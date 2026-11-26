@@ -1,8 +1,8 @@
 {
   "date": "2026-11-26",
-  "reportTime": "10:55",
+  "reportTime": "14:37",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 70,
+  "noticeCount": 69,
   "areas": [
     {
       "id": "J6612/26",
@@ -1865,35 +1865,6 @@
       "altitude": "GND \u2013 FL130"
     },
     {
-      "id": "J7576/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611261000/2611261400",
-      "kind": "polygon",
-      "points": [
-        [
-          12.58333333,
-          101.36666667
-        ],
-        [
-          12.58333333,
-          101.53333333
-        ],
-        [
-          12.41666667,
-          101.53333333
-        ],
-        [
-          12.41666667,
-          101.36666667
-        ],
-        [
-          12.58333333,
-          101.36666667
-        ]
-      ],
-      "altitude": "SFC \u2013 4000FT AMSL"
-    },
-    {
       "id": "J7577/26",
       "summary": "AERIAL PHOTO WILL TAKE PLACE",
       "validityUtc": "2612030000/2612251000 DAILY 0000-1000",
@@ -2145,5 +2116,5 @@
       "altitude": "GND \u2013 296FT AGL"
     }
   ],
-  "syncedAt": "2026-11-26T10:55:21+00:00"
+  "syncedAt": "2026-11-26T14:37:47+00:00"
 }
