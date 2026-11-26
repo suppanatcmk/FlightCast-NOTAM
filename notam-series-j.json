@@ -1,8 +1,8 @@
 {
   "date": "2026-11-26",
-  "reportTime": "18:56",
+  "reportTime": "20:11",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 69,
+  "noticeCount": 68,
   "areas": [
     {
       "id": "J6612/26",
@@ -1738,18 +1738,6 @@
       "altitude": "GND \u2013 1000FT AGL"
     },
     {
-      "id": "J7556/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611251400/2611261900 DAILY 1400-1900",
-      "kind": "circle",
-      "center": [
-        12.28264722,
-        101.65504722
-      ],
-      "radiusMeters": 88896.0,
-      "altitude": "SFC \u2013 5000FT AMSL"
-    },
-    {
       "id": "J7559/26",
       "summary": "PARAGLIDING WILL TAKE PLACE",
       "validityUtc": "2612120500/2702281100 SAT SUN 0500-1100",
@@ -2116,5 +2104,5 @@
       "altitude": "GND \u2013 296FT AGL"
     }
   ],
-  "syncedAt": "2026-11-26T18:56:27+00:00"
+  "syncedAt": "2026-11-26T20:11:43+00:00"
 }
