@@ -1,8 +1,8 @@
 {
   "date": "2026-11-26",
-  "reportTime": "08:58",
+  "reportTime": "10:55",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 75,
+  "noticeCount": 70,
   "areas": [
     {
       "id": "J6612/26",
@@ -1098,31 +1098,6 @@
       "altitude": "GND \u2013 400FT AGL"
     },
     {
-      "id": "J7433/26",
-      "summary": "GUN FRNG WILL TAKE PLACE",
-      "validityUtc": "2611260700/2611260900",
-      "kind": "polygon",
-      "points": [
-        [
-          14.97988889,
-          100.74819444
-        ],
-        [
-          14.927,
-          100.75719444
-        ],
-        [
-          14.91838889,
-          100.70136111
-        ],
-        [
-          14.97988889,
-          100.74819444
-        ]
-      ],
-      "altitude": "GND \u2013 3000FT AGL"
-    },
-    {
       "id": "J7446/26",
       "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
       "validityUtc": "2612091100/2612091659",
@@ -1837,35 +1812,6 @@
       "altitude": "GND \u2013 7000FT AGL"
     },
     {
-      "id": "J7566/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611260100/2611260900",
-      "kind": "polygon",
-      "points": [
-        [
-          12.50833333,
-          100.65
-        ],
-        [
-          12.50833333,
-          100.9
-        ],
-        [
-          12.34055556,
-          100.9
-        ],
-        [
-          12.34055556,
-          100.65
-        ],
-        [
-          12.50833333,
-          100.65
-        ]
-      ],
-      "altitude": "SFC \u2013 3000FT AMSL"
-    },
-    {
       "id": "J7567/26",
       "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
       "validityUtc": "2611300000/2612041100 DAILY 0000-1100",
@@ -1989,18 +1935,6 @@
       "altitude": "GND \u2013 1000FT AGL"
     },
     {
-      "id": "J7580/26",
-      "summary": "TEMPO RESTRICTED AREA ACT",
-      "validityUtc": "2611260630/2611261000",
-      "kind": "circle",
-      "center": [
-        17.435,
-        103.18333333
-      ],
-      "radiusMeters": 9260.0,
-      "altitude": "GND \u2013 6000FT AGL"
-    },
-    {
       "id": "J7581/26",
       "summary": "AERIAL PHOTO WILL TAKE PLACE",
       "validityUtc": "2612030000/2612251000 DAILY 0000-1000",
@@ -2042,6 +1976,18 @@
       "altitude": "GND \u2013 1000FT AGL"
     },
     {
+      "id": "J7583/26",
+      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
+      "validityUtc": "2611270000/2611291100 DAILY 0000-1100",
+      "kind": "circle",
+      "center": [
+        12.55283333,
+        101.68027778
+      ],
+      "radiusMeters": 5556.0,
+      "altitude": "SFC \u2013 800FT AMSL"
+    },
+    {
       "id": "J6980/26",
       "summary": "TEMPO RESTRICTED AREA ACT",
       "validityUtc": "2609300210/2612311659",
@@ -2052,18 +1998,6 @@
       ],
       "radiusMeters": 926.0,
       "altitude": "GND \u2013 3000FT AGL"
-    },
-    {
-      "id": "J7227/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2610262300/2611260915 OCT 26 2300-2359, 27-NOV 25 0000-0110 0255-0545 0730-0915 2300-2359, 26 0000-0110 0255-0545 0730-0915",
-      "kind": "circle",
-      "center": [
-        12.29450833,
-        102.35054444
-      ],
-      "radiusMeters": 237.056,
-      "altitude": "GND \u2013 296FT AGL"
     },
     {
       "id": "J7538/26",
@@ -2151,18 +2085,6 @@
       "altitude": "GND \u2013 3000FT AGL"
     },
     {
-      "id": "J7569/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611260100/2611260900",
-      "kind": "circle",
-      "center": [
-        18.28665556,
-        99.50134444
-      ],
-      "radiusMeters": 55.56,
-      "altitude": "GND \u2013 99FT AGL"
-    },
-    {
       "id": "J7575/26",
       "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
       "validityUtc": "2611272300/2611281100",
@@ -2223,5 +2145,5 @@
       "altitude": "GND \u2013 296FT AGL"
     }
   ],
-  "syncedAt": "2026-11-26T08:58:01+00:00"
+  "syncedAt": "2026-11-26T10:55:21+00:00"
 }
