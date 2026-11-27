@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "reportTime": "17:56",
+  "reportTime": "19:56",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
   "noticeCount": 69,
   "areas": [
@@ -1743,5 +1743,5 @@
       "altitude": "GND \u2013 300FT AGL"
     }
   ],
-  "syncedAt": "2026-11-27T17:56:20+00:00"
+  "syncedAt": "2026-11-27T19:56:08+00:00"
 }
