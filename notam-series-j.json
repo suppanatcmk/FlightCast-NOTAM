@@ -1,8 +1,8 @@
 {
   "date": "2026-11-27",
-  "reportTime": "02:51",
+  "reportTime": "04:56",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 71,
+  "noticeCount": 72,
   "areas": [
     {
       "id": "J6612/26",
@@ -2017,6 +2017,18 @@
       "altitude": "GND \u2013 3500FT AMSL"
     },
     {
+      "id": "J7587/26",
+      "summary": "MIL AIR EXER WILL TAKE PLACE",
+      "validityUtc": "2612010000/2612031000 DAILY 0000-1000",
+      "kind": "circle",
+      "center": [
+        12.43616667,
+        99.86611111
+      ],
+      "radiusMeters": 9260.0,
+      "altitude": "GND \u2013 1000FT AMSL"
+    },
+    {
       "id": "J6980/26",
       "summary": "TEMPO RESTRICTED AREA ACT",
       "validityUtc": "2609300210/2612311659",
@@ -2186,5 +2198,5 @@
       "altitude": "GND \u2013 296FT AGL"
     }
   ],
-  "syncedAt": "2026-11-27T02:51:47+00:00"
+  "syncedAt": "2026-11-27T04:56:32+00:00"
 }
