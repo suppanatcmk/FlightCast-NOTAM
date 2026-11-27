@@ -1,8 +1,8 @@
 {
   "date": "2026-11-27",
-  "reportTime": "01:56",
+  "reportTime": "02:51",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 69,
+  "noticeCount": 71,
   "areas": [
     {
       "id": "J6612/26",
@@ -1947,6 +1947,76 @@
       "altitude": "SFC \u2013 800FT AMSL"
     },
     {
+      "id": "J7585/26",
+      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
+      "validityUtc": "2612050100/2702281030 DEC 05-20 26-FEB 28 0100-1030",
+      "kind": "polygon",
+      "points": [
+        [
+          15.13334167,
+          101.32360556
+        ],
+        [
+          15.13273056,
+          101.40481667
+        ],
+        [
+          15.01633056,
+          101.404
+        ],
+        [
+          14.98027778,
+          101.30768333
+        ],
+        [
+          14.98044444,
+          101.24646111
+        ],
+        [
+          15.07864167,
+          101.24846389
+        ],
+        [
+          15.13334167,
+          101.32360556
+        ]
+      ],
+      "altitude": "GND \u2013 3500FT AMSL"
+    },
+    {
+      "id": "J7586/26",
+      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
+      "validityUtc": "2612050100/2702281030 DEC 05-20 26-FEB 28 0100-1030",
+      "kind": "polygon",
+      "points": [
+        [
+          14.90476111,
+          101.17496111
+        ],
+        [
+          14.89939722,
+          101.24691944
+        ],
+        [
+          14.80846667,
+          101.269975
+        ],
+        [
+          14.77878889,
+          101.0935
+        ],
+        [
+          14.86565556,
+          101.09548056
+        ],
+        [
+          14.90476111,
+          101.17496111
+        ]
+      ],
+      "altitude": "GND \u2013 3500FT AMSL"
+    },
+    {
       "id": "J6980/26",
       "summary": "TEMPO RESTRICTED AREA ACT",
       "validityUtc": "2609300210/2612311659",
@@ -2116,5 +2186,5 @@
       "altitude": "GND \u2013 296FT AGL"
     }
   ],
-  "syncedAt": "2026-11-27T01:56:19+00:00"
+  "syncedAt": "2026-11-27T02:51:47+00:00"
 }
