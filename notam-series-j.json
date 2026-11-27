@@ -1,8 +1,8 @@
 {
   "date": "2026-11-27",
-  "reportTime": "10:56",
+  "reportTime": "12:19",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 69,
+  "noticeCount": 70,
   "areas": [
     {
       "id": "J6612/26",
@@ -785,43 +785,6 @@
       "altitude": "GND \u2013 1400FT AGL"
     },
     {
-      "id": "J7355/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611220100/2611271100 DAILY 0100-1100",
-      "kind": "polygon",
-      "points": [
-        [
-          17.69036389,
-          99.15776667
-        ],
-        [
-          17.68333333,
-          99.16313056
-        ],
-        [
-          17.67943333,
-          99.16347222
-        ],
-        [
-          17.67376389,
-          99.15684722
-        ],
-        [
-          17.68176667,
-          99.14965833
-        ],
-        [
-          17.689475,
-          99.15295556
-        ],
-        [
-          17.69036389,
-          99.15776667
-        ]
-      ],
-      "altitude": "GND \u2013 700FT AGL"
-    },
-    {
       "id": "J7357/26",
       "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
       "validityUtc": "2611280900/2611281300",
@@ -1575,6 +1538,18 @@
       "altitude": "GND \u2013 1000FT AMSL"
     },
     {
+      "id": "J7592/26",
+      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
+      "validityUtc": "2611280130/2612031000 DAILY 0130-1000",
+      "kind": "circle",
+      "center": [
+        16.89288056,
+        102.2745
+      ],
+      "radiusMeters": 3333.6,
+      "altitude": "GND \u2013 650FT AGL"
+    },
+    {
       "id": "J6980/26",
       "summary": "TEMPO RESTRICTED AREA ACT",
       "validityUtc": "2609300210/2612311659",
@@ -1684,6 +1659,18 @@
       "altitude": "GND \u2013 3000FT AGL"
     },
     {
+      "id": "J7591/26",
+      "summary": "TEMPO RESTRICTED AREA ACT",
+      "validityUtc": "2612011000/2612011659",
+      "kind": "circle",
+      "center": [
+        18.75055556,
+        98.92833333
+      ],
+      "radiusMeters": 1852.0,
+      "altitude": "GND \u2013 6000FT AGL"
+    },
+    {
       "id": "J7589/26",
       "summary": "CENTRE 191619.49N0975629.83E RMK: COOR CTC TEL +668 4885 8132, +668 4979 1985GND/6000FT AGL VTCN (NAN/NAN NAKHON)",
       "validityUtc": "2611280200/2611281100 ROCKET (BANGFAI) FRNG WILL TAKE PLACE RADIUS 3NM",
@@ -1720,16 +1707,16 @@
       "altitude": "GND \u2013 98.50FT AGL"
     },
     {
-      "id": "J7460/26",
-      "summary": "INSTRUMENT FLIGHT PROCEDURE (IFP) FLTCK WILL TAKE PLACE",
-      "validityUtc": "2611230300/2611271100 DAILY 0300-1100",
+      "id": "J7593/26",
+      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
+      "validityUtc": "2611300200/2611301100",
       "kind": "circle",
       "center": [
-        9.13611111,
-        99.13916667
+        19.86282778,
+        99.85496111
       ],
-      "radiusMeters": 46300.0,
-      "altitude": "GND \u2013 10000FT AMSL"
+      "radiusMeters": 92.6,
+      "altitude": "GND \u2013 296FT AGL"
     },
     {
       "id": "J7590/26",
@@ -1768,5 +1755,5 @@
       "altitude": "GND \u2013 300FT AGL"
     }
   ],
-  "syncedAt": "2026-11-27T10:56:10+00:00"
+  "syncedAt": "2026-11-27T12:19:50+00:00"
 }
