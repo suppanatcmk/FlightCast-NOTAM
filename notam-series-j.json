@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-26",
-  "reportTime": "21:56",
+  "date": "2026-11-27",
+  "reportTime": "01:56",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 68,
+  "noticeCount": 69,
   "areas": [
     {
       "id": "J6612/26",
@@ -1959,6 +1959,18 @@
       "altitude": "GND \u2013 3000FT AGL"
     },
     {
+      "id": "J7584/26",
+      "summary": "135452N1003620E RMK: DEP/ARR ACFT WILL BE DLA DURING THIS PERIODGND/3000FT AMSL VTBS (BANGKOK/SUVARNABHUMI INTL AIRPORT)",
+      "validityUtc": "2612040200/2612040500 DVOR/DME FLTCK WILL TAKE PLACE RADIUS 25NM CENTRE",
+      "kind": "point",
+      "center": [
+        13.91444444,
+        100.60555556
+      ],
+      "pointRole": "location",
+      "altitude": "GND \u2013 3000FT AMSL"
+    },
+    {
       "id": "J7538/26",
       "summary": "ILS/DME RWY 01 FLTCK WILL TAKE PLACE",
       "validityUtc": "2611292230/2612010200 DAILY 2230-0200",
@@ -2104,5 +2116,5 @@
       "altitude": "GND \u2013 296FT AGL"
     }
   ],
-  "syncedAt": "2026-11-26T21:56:19+00:00"
+  "syncedAt": "2026-11-27T01:56:19+00:00"
 }
