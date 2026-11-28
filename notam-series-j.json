@@ -1,8 +1,8 @@
 {
   "date": "2026-11-28",
-  "reportTime": "07:56",
+  "reportTime": "09:56",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 69,
+  "noticeCount": 68,
   "areas": [
     {
       "id": "J6612/26",
@@ -1623,18 +1623,6 @@
       "altitude": "GND \u2013 296FT AGL"
     },
     {
-      "id": "J7438/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611220200/2611280900 DAILY 0200-0900",
-      "kind": "circle",
-      "center": [
-        18.81166667,
-        98.95577778
-      ],
-      "radiusMeters": 555.6,
-      "altitude": "GND \u2013 150FT AGL"
-    },
-    {
       "id": "J7440/26",
       "summary": "TEMPO RESTRICTED AREA ACT",
       "validityUtc": "2611170330/2702171659",
@@ -1743,5 +1731,5 @@
       "altitude": "GND \u2013 300FT AGL"
     }
   ],
-  "syncedAt": "2026-11-28T07:56:24+00:00"
+  "syncedAt": "2026-11-28T09:56:12+00:00"
 }
