@@ -1,8 +1,8 @@
 {
   "date": "2026-11-28",
-  "reportTime": "09:56",
+  "reportTime": "11:56",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
-  "noticeCount": 68,
+  "noticeCount": 65,
   "areas": [
     {
       "id": "J6612/26",
@@ -568,43 +568,6 @@
         ]
       ],
       "altitude": "8000FT AMSL \u2013 FL170"
-    },
-    {
-      "id": "J7036/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611240000/2611281000 DAILY 0000-1000",
-      "kind": "polygon",
-      "points": [
-        [
-          12.93126111,
-          100.87866111
-        ],
-        [
-          12.92214444,
-          100.898725
-        ],
-        [
-          12.90736111,
-          100.898425
-        ],
-        [
-          12.90146111,
-          100.86365
-        ],
-        [
-          12.91430556,
-          100.851275
-        ],
-        [
-          12.93044167,
-          100.86217778
-        ],
-        [
-          12.93126111,
-          100.87866111
-        ]
-      ],
-      "altitude": "GND \u2013 1000FT AGL"
     },
     {
       "id": "J7167/26",
@@ -1647,30 +1610,6 @@
       "altitude": "GND \u2013 6000FT AGL"
     },
     {
-      "id": "J7589/26",
-      "summary": "CENTRE 191619.49N0975629.83E RMK: COOR CTC TEL +668 4885 8132, +668 4979 1985GND/6000FT AGL VTCN (NAN/NAN NAKHON)",
-      "validityUtc": "2611280200/2611281100 ROCKET (BANGFAI) FRNG WILL TAKE PLACE RADIUS 3NM",
-      "kind": "point",
-      "center": [
-        19.27208056,
-        97.94161944
-      ],
-      "pointRole": "location",
-      "altitude": "GND \u2013 6000FT AGL"
-    },
-    {
-      "id": "J7575/26",
-      "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
-      "validityUtc": "2611272300/2611281100",
-      "kind": "circle",
-      "center": [
-        18.822775,
-        100.80727778
-      ],
-      "radiusMeters": 926.0,
-      "altitude": "GND \u2013 296FT AGL"
-    },
-    {
       "id": "J7391/26",
       "summary": "UNMANNED AIRCRAFT WILL TAKE PLACE",
       "validityUtc": "2611150000/2611291050 DAILY 0000-1050",
@@ -1731,5 +1670,5 @@
       "altitude": "GND \u2013 300FT AGL"
     }
   ],
-  "syncedAt": "2026-11-28T09:56:12+00:00"
+  "syncedAt": "2026-11-28T11:56:17+00:00"
 }
