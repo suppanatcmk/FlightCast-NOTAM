@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "reportTime": "05:56",
+  "reportTime": "07:56",
   "source": "https://notamthai.aerothai.aero/ResultSummaryBySeries.aspx",
   "noticeCount": 69,
   "areas": [
@@ -663,19 +663,6 @@
         ]
       ],
       "altitude": "GND \u2013 6000FT AGL"
-    },
-    {
-      "id": "J7223/26",
-      "summary": "TEMPO RESTRICTED AREA ACT",
-      "validityUtc": "2610260722/2611281100",
-      "kind": "circle",
-      "center": [
-        18.46722222,
-        97.43888889
-      ],
-      "radiusMeters": 18520.0,
-      "exclusion": "EXCLUDING YANGON FIR",
-      "altitude": "GND \u2013 UNL"
     },
     {
       "id": "J7266/26",
@@ -1538,6 +1525,19 @@
       "altitude": "GND \u2013 650FT AGL"
     },
     {
+      "id": "J7594/26",
+      "summary": "TEMPO RESTRICTED AREA ACT",
+      "validityUtc": "2611280615/2612281100",
+      "kind": "circle",
+      "center": [
+        18.46722222,
+        97.43888889
+      ],
+      "radiusMeters": 18520.0,
+      "exclusion": "EXCLUDING YANGON FIR",
+      "altitude": "GND \u2013 UNL"
+    },
+    {
       "id": "J6980/26",
       "summary": "TEMPO RESTRICTED AREA ACT",
       "validityUtc": "2609300210/2612311659",
@@ -1743,5 +1743,5 @@
       "altitude": "GND \u2013 300FT AGL"
     }
   ],
-  "syncedAt": "2026-11-28T05:56:18+00:00"
+  "syncedAt": "2026-11-28T07:56:24+00:00"
 }
